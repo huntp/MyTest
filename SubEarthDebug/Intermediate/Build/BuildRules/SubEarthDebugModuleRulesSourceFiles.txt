@@ -1,3 +1,3 @@
-P:\GitRepo\SubEarthDebug\SubEarthDebug\Source\SubEarthDebug\SubEarthDebug.Build.cs
-P:\GitRepo\SubEarthDebug\SubEarthDebug\Source\SubEarthDebug.Target.cs
-P:\GitRepo\SubEarthDebug\SubEarthDebug\Source\SubEarthDebugEditor.Target.cs
+C:\GitRepo\SubEarthDebug\SubEarthDebug\Source\SubEarthDebug\SubEarthDebug.Build.cs
+C:\GitRepo\SubEarthDebug\SubEarthDebug\Source\SubEarthDebug.Target.cs
+C:\GitRepo\SubEarthDebug\SubEarthDebug\Source\SubEarthDebugEditor.Target.cs
